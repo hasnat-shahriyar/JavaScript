@@ -2,7 +2,7 @@
 
 # JavaScript Mastery Repository
 
-Welcome to the JavaScript Mastery Repository! This repository is designed to help you master JavaScript development over a three-month period. Below, you'll find a breakdown of the topics covered in each milestone, along with modules within each milestone.
+Welcome to the JavaScript Mastery Repository! This repository is designed to help you master JavaScript development. Below, you'll find a breakdown of the topics covered in each milestone, along with modules within each milestone.
 
 ## Milestones Overview
 
