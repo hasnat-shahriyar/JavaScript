@@ -20,7 +20,7 @@ Function Declarations are defined using the `function` keyword followed by the f
 
 Function Expressions define a function as part of an expression, typically by assigning it to a variable. Function Expressions are not hoisted like Function Declarations, and they can't be called before they're defined.
 
-বাংলা: ফাংশন এক্সপ্রেশনে একটি ফাংশনকে একটি এক্সপ্রেশনের অংশ হিসাবে সংজ্ঞায়িত করে, সাধারণত এটি একটি ভেরিয়েবলের সাথে এসাইন করা হয় `const ভ্যারিয়েবল = function নাম (প্যারামিটার)`। তবে ফাংশন এক্সপ্রেশনসমূহ ফাংশন ডিক্লেয়ারেশনের মতো হইস্টেড হয় না, এবং নির্ধারিত (ডিফাইন) হওয়ার আগে তাদের ডাকা (কল) করা যায় না ।
+বাংলা: ফাংশন এক্সপ্রেশনে একটি ফাংশনকে একটি এক্সপ্রেশনের অংশ হিসাবে সংজ্ঞায়িত করে, সাধারণত এটি একটি ভেরিয়েবলের সাথে এসাইন করা হয় `const ভ্যারিয়েবল = function (প্যারামিটার)`। তবে ফাংশন এক্সপ্রেশনসমূহ ফাংশন ডিক্লেয়ারেশনের মতো হইস্টেড হয় না, এবং নির্ধারিত (ডিফাইন) হওয়ার আগে তাদের ডাকা (কল) করা যায় না ।
 
 ## Function Expressions have the following characteristics:
 
