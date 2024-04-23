@@ -2,7 +2,7 @@
 
 Function Declarations are defined using the `function` keyword followed by the function name and a set of parentheses containing optional parameters. This type of declaration is hoisted, meaning it's moved to the top of the current scope during the compilation phase.
 
-বাংলা: ফাংশন ডিক্লেয়ার করা বলতে বোঝায় একটি `ফাংশন` কিওয়ার্ড ইউজ করে "ফাংশনের নাম" `function নাম` এবং "parentheses" `()` এর ভেতরে একটি অপশনাল প্যারামিটার সংলগ্ন `(প্যারামিটার)` । এই ধরণের ডিক্লেয়ারেশনকে হইস্টেড বলা হয়, মানে হচ্ছে এটা উপরের বর্তমান স্কোপে স্থানান্তরিত হয় কম্পিলেশন এর পর্যায়ে ।
+বাংলা: ফাংশন ডিক্লেয়ার করা বলতে বোঝায় একটি `function` কিওয়ার্ড ব্যবহার করে "ফাংশনের নাম" `function নাম` এবং "parentheses" `()` এর ভেতরে একটি অপশনাল প্যারামিটার সংলগ্ন `(প্যারামিটার)` । এই ধরণের ডিক্লেয়ারেশনকে হইস্টেড বলা হয়, মানে হচ্ছে এটা উপরের বর্তমান স্কোপে স্থানান্তরিত হয় কম্পিলেশনের সময় ।
 
 ## Function Declarations have the following characteristics:
 
@@ -32,7 +32,7 @@ Function Expressions define a function as part of an expression, typically by as
 
 - তারা তাদের উপরের স্কোপে হইস্টেড হয় না।
 - নির্ধারিত (ডিফাইন) হওয়ার আগে তাদের ডাকা (কল) করা যায় না ।
-- তারা নামহীন হতে পারে (কোনপ্রকার ফাংশনের নাম ছাড়া) অথবা নামকরণসহ থাকতে পারে (যদি একটি ভেরিয়েবলে বরাদ্দ করা হয়)।
+- তারা নামহীন হতে পারে (কোনপ্রকার ফাংশনের নাম ছাড়া) অথবা নামকরণ অবস্থায় থাকতে পারে (যদি একটি ভেরিয়েবলে বরাদ্দ করা হয়)।
 
 ### Example of Using Both:
 
